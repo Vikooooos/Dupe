@@ -1,5 +1,5 @@
 -- Settings
-local itemName = "ItemNameHere"  -- Replace with item name
+local itemName = "Cyan Slycer"  -- Replace with item name
 local itemAmount = 1 -- Amount to duplicate
 
 -- Get player and item
